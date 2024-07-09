@@ -2,6 +2,7 @@ import random
 import math
 import timeit
 #import numpy as np
+#passos de 100 mil em 100 mil
 
 #INTERVAL = int(input("Quantas simulações deseja fazer? "))  # número de simulações
 
