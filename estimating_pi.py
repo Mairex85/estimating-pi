@@ -6,9 +6,9 @@ import timeit
 
 #INTERVAL = int(input("Quantas simulações deseja fazer? "))  # número de simulações
 
-start = 10**6
-step = 10**8
-end = 10**9
+start = 10**6 #simulations start from 10⁶
+step = 10**9 #simulation step
+end = 10**9 #simulations end by 10⁸
 
 for i in range(start, end + 1, step):
     circle_points = 0
